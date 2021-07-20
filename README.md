@@ -71,6 +71,16 @@ parte b
 ![Ejercicio 3 tema 10](https://user-images.githubusercontent.com/84397282/126243587-2fe21b3b-b083-49a7-b94a-8cc222270bc3.jpg)
 ![Ejercicio 5 tema 10](https://user-images.githubusercontent.com/84397282/126243589-616c0075-5720-4297-9eec-cb584a85aaac.jpg)
 
+![](https://user-images.githubusercontent.com/84998013/126403144-7ecb2176-a084-4fd7-b58d-bc621fad6e51.png)
+
+![](https://user-images.githubusercontent.com/84998013/126403193-d3bcbcf8-045f-452f-9548-edf5ed4a76a2.png)
+
+![](https://user-images.githubusercontent.com/84998013/126403241-0c9fb80e-fe3f-49db-a932-392a68cdfc2b.png)
+
+![](https://user-images.githubusercontent.com/84998013/126403703-695d855a-eece-4848-a45f-58ea9e3e1d07.png)
+
+![](https://user-images.githubusercontent.com/84998013/126403765-39a5dead-2c30-4746-870e-9461b984f055.png)
+
 -VIDEO
 
 -CONCLUSIONES
@@ -78,6 +88,8 @@ parte b
 - Si bien en el calculo de capacitancias no se aplica ley de Ohm o de Kirchhoff, la manera en que podemos analizar los circuitos es muy similar, almenos en estos tempranos calculos del analisis de capacitores se lo puede realizar con el solo hecho de tener muy claro los conceptos basicos.
 
 - Lo primordial para entender el tema de capacitores y capacitancia es teniendo muy en claro como funciona y porque funciona un capacitor, qué es un dielectrico y demas componentes.
+
+- Aunque los capacitores son totalmente confiables algunas veces  pueden fallar debido a una mala aplicación el voltaje, corriente o temperatura excesivos, o simplemente por el uso , que en el caso podria ser el mas comun. 
 
 -BIBLIOGRAFIA
 
