@@ -25,6 +25,18 @@
 
 -RESOLUCION DE EJERCCIOS Y PROBLEMAS
 
+- TEMA 9
+
+![Ejercicio 1 tema 9](https://user-images.githubusercontent.com/84397282/126243446-5a21d1a7-785a-48ac-8844-f9e0adfbb831.jpg)
+![Ejercicio 2 tema 9](https://user-images.githubusercontent.com/84397282/126243450-5b311297-c7cc-4a18-9dff-0ef89e14fb50.jpg)
+![Ejercicio 3 tema 9](https://user-images.githubusercontent.com/84397282/126243452-9e46c061-445a-472c-bc30-a0621f18bd45.jpg)
+![Ejercicio 4 tema 9](https://user-images.githubusercontent.com/84397282/126243453-18c569b5-4294-4d86-9a32-0fc5fc94fc46.jpg)
+![Ejercicio 5 tema 9](https://user-images.githubusercontent.com/84397282/126243454-e0ddd50a-f287-4650-a000-34f5c2a0b1d7.jpg)
+![Ejercicio 6 tema 9](https://user-images.githubusercontent.com/84397282/126243455-e7a4e72a-8f9a-4d2b-b934-7f880df14137.jpg)
+![Ejercicio 7 tema 9](https://user-images.githubusercontent.com/84397282/126243456-4a5a1788-c65b-4cca-878f-b05a629ff431.jpg)
+![Ejercicio 8 tema 9](https://user-images.githubusercontent.com/84397282/126243457-ec2d30b5-80e5-4126-9ecb-ff618302a24b.jpg)
+![Ejercicio 9 tema 9](https://user-images.githubusercontent.com/84397282/126243458-7a50e92d-438f-4369-a510-d0495edfb000.jpg)
+
 -VIDEO
 
 -CONCLUSIONES
