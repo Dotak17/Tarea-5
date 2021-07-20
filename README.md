@@ -37,6 +37,23 @@ parte b
 
 - TEMA 9
 
+![](https://user-images.githubusercontent.com/84998013/126402057-54c81ba1-114c-4313-b085-a62547decf0a.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402125-49008caf-d512-4f78-95a6-3a1548673fc3.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402180-4f1ae8c0-8333-4d9c-9c0e-cf1b752a1e25.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402332-83b83dbb-f41d-4fba-80c2-dbd8976bc3f3.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402388-f50035e7-dab5-4549-9c49-f3bf030a2fbd.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402475-f0ace66b-09ca-4e7c-8a56-b9f462122931.png)
+
+![](https://user-images.githubusercontent.com/84998013/126402535-8ffe04b3-dd87-4bc5-961d-046738af2080.png)
+
+
+
+
 ![Ejercicio 1 tema 9](https://user-images.githubusercontent.com/84397282/126243446-5a21d1a7-785a-48ac-8844-f9e0adfbb831.jpg)
 ![Ejercicio 2 tema 9](https://user-images.githubusercontent.com/84397282/126243450-5b311297-c7cc-4a18-9dff-0ef89e14fb50.jpg)
 ![Ejercicio 3 tema 9](https://user-images.githubusercontent.com/84397282/126243452-9e46c061-445a-472c-bc30-a0621f18bd45.jpg)
