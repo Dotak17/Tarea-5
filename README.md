@@ -42,7 +42,6 @@
 ![Ejercicio 1 tema 10](https://user-images.githubusercontent.com/84397282/126243584-7a5e33a4-08c3-4586-934a-dbb2e5da0b4c.jpg)
 ![Ejercicio 2 tema 10](https://user-images.githubusercontent.com/84397282/126243585-9e625307-55f4-4d65-832a-1b7bbd55f118.jpg)
 ![Ejercicio 3 tema 10](https://user-images.githubusercontent.com/84397282/126243587-2fe21b3b-b083-49a7-b94a-8cc222270bc3.jpg)
-![Ejercicio 4 tema 10](https://user-images.githubusercontent.com/84397282/126243588-21795a3c-c3e7-42a2-8cb5-ee9ed4c2f29c.jpg)
 ![Ejercicio 5 tema 10](https://user-images.githubusercontent.com/84397282/126243589-616c0075-5720-4297-9eec-cb584a85aaac.jpg)
 
 -VIDEO
