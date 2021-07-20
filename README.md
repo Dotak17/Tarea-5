@@ -10,7 +10,17 @@
 
 - Indicar de los temas propuestos en la unidad 10, cuales son los conceptos esenciales para una mejor compresion de los capacitores y la capacitancia.
 
--MARCO TEORICO
+-Marco teorico
+
+- Tema 9
+
+
+parte b 
+
+![](https://user-images.githubusercontent.com/84998013/126249731-d5461a4c-1518-4029-9329-90d8df4efcdc.png)
+
+![](https://user-images.githubusercontent.com/84998013/126250098-72a04930-2937-498f-81f1-5c331575b033.png)
+
 
 - TEMA 10
 ![Mapa 1](https://user-images.githubusercontent.com/84397282/126243306-e85f7843-1987-4d61-92d8-f09ad247c1de.jpg)
