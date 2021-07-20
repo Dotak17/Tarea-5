@@ -12,6 +12,17 @@
 
 -MARCO TEORICO
 
+- TEMA 10
+![Mapa 1](https://user-images.githubusercontent.com/84397282/126243306-e85f7843-1987-4d61-92d8-f09ad247c1de.jpg)
+![Mapa 2](https://user-images.githubusercontent.com/84397282/126243308-57e270c0-dda1-4eff-9eda-79ab327c8dd6.jpg)
+![Mapa 3](https://user-images.githubusercontent.com/84397282/126243309-18cea58c-5241-4245-b8ee-7e4f6b86227a.jpg)
+![Mapa 4](https://user-images.githubusercontent.com/84397282/126243310-df8aaeb9-2feb-4f4c-8301-746136f43ad1.jpg)
+![Mapa 5](https://user-images.githubusercontent.com/84397282/126243312-769b936a-196a-4498-bfba-b6d3413e5751.jpg)
+![Mapa 6](https://user-images.githubusercontent.com/84397282/126243315-81752a70-5035-4ead-822d-8bfeb38c12e2.jpg)
+![Mapa 7](https://user-images.githubusercontent.com/84397282/126243318-b8814025-38fe-44e1-8288-263e1304b962.jpg)
+![Mapa 8](https://user-images.githubusercontent.com/84397282/126243319-d9f891da-a71d-4554-b253-706c9a34ce5f.jpeg)
+![Mapa 9](https://user-images.githubusercontent.com/84397282/126243321-1c54e971-6fd8-42e3-8dc1-63cc4883c3fb.jpeg)
+
 -RESOLUCION DE EJERCCIOS Y PROBLEMAS
 
 -VIDEO
