@@ -18,4 +18,12 @@
 
 -CONCLUSIONES
 
+- Si bien en el calculo de capacitancias no se aplica ley de Ohm o de Kirchhoff, la manera en que podemos analizar los circuitos es muy similar, almenos en estos tempranos calculos del analisis de capacitores se lo puede realizar con el solo hecho de tener muy claro los conceptos basicos.
+
+- Lo primordial para entender el tema de capacitores y capacitancia es teniendo muy en claro como funciona y porque funciona un capacitor, qué es un dielectrico y demas componentes.
+
 -BIBLIOGRAFIA
+
+- Alvarez, A. (23 de Abril de 2021). Mecatronicalatam. Obtenido de Mecatronicalatam: https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/
+
+
