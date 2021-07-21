@@ -2,10 +2,13 @@
 
 -OBJETIVOS GENERALES
 
+- Identificar  los distintos teoremas de redes mediante el analisis de cada uno de ellos par asi tener una aprecia completa al aplicarlos en ejercicios de los circuitos dados
+
 - Resumir los principales temas tratados en la unidad 10, acerca de capacitores y capacitanciaa tra vez de cuadros conceptuales, mapas mentales o tablas de doble entrada para alcanzar en conocimiento conceptual necesario en la resolucion de los ejercicios propuestos al final de la unidad.
 
 -OBJETIVOS ESPECIFICOS
 
+- Comprender los teoremas de superposicion y thevenin , utiles para el analisis de redes.
 - Recordar los distintos teoremas y leyes que se han estado estudiuando a lo largo del parcial que puedan ser aplicables en la resolucion de los ejercicios.
 
 - Indicar de los temas propuestos en la unidad 10, cuales son los conceptos esenciales para una mejor compresion de los capacitores y la capacitancia.
@@ -89,7 +92,7 @@ parte b
 
 - Lo primordial para entender el tema de capacitores y capacitancia es teniendo muy en claro como funciona y porque funciona un capacitor, qué es un dielectrico y demas componentes.
 
-- Aunque los capacitores son totalmente confiables algunas veces  pueden fallar debido a una mala aplicación el voltaje, corriente o temperatura excesivos, o simplemente por el uso , que en el caso podria ser el mas comun. 
+- Aunque los capacitores son totalmente confiables algunas veces  pueden fallar debido a una mala aplicación el voltaje, corriente o temperatura excesivos, o simplemente por el uso , que podria ser el mas comun.
 
 -BIBLIOGRAFIA
 
