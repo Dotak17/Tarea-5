@@ -16,8 +16,9 @@
 
 - Tema 9
 
+![](https://user-images.githubusercontent.com/84998005/126477466-74c62511-55d0-4036-a832-bb4dadcd681d.png)
 
-parte b 
+![](https://user-images.githubusercontent.com/84998005/126477460-b0fd8efe-3872-43e6-8f89-44baf2e7d287.png)
 
 ![](https://user-images.githubusercontent.com/84998013/126249731-d5461a4c-1518-4029-9329-90d8df4efcdc.png)
 
@@ -53,7 +54,21 @@ parte b
 
 ![](https://user-images.githubusercontent.com/84998013/126402535-8ffe04b3-dd87-4bc5-961d-046738af2080.png)
 
+![](https://user-images.githubusercontent.com/84998005/126477455-be9a962e-921a-4d92-aeb8-b29d8514f893.png)
 
+![](https://user-images.githubusercontent.com/84998005/126477450-0039779f-ffb7-4710-bece-56a20f05c819.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477446-c8908181-ba52-4a1b-85a8-986904a9be88.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477441-3ebd501a-1450-45de-9c37-94ac3a313890.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477440-e816d132-f4ea-4dca-a27b-1e45162d85f6.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477435-74cc2327-60e2-42f6-ab0e-4e559cee7292.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477432-06069dc1-2e6d-4583-9751-22e96e87cfe2.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477430-68a4dfa2-d5d1-43bb-bb0d-5cc242e802a6.png)
 
 
 ![Ejercicio 1 tema 9](https://user-images.githubusercontent.com/84397282/126243446-5a21d1a7-785a-48ac-8844-f9e0adfbb831.jpg)
@@ -67,6 +82,15 @@ parte b
 ![Ejercicio 9 tema 9](https://user-images.githubusercontent.com/84397282/126243458-7a50e92d-438f-4369-a510-d0495edfb000.jpg)
 
 - TEMA 10
+![](https://user-images.githubusercontent.com/84998005/126477423-0e8ec039-0984-4c39-8b94-f64f37c73ca1.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477419-a0c2eabe-34ce-4c7c-a969-6ed6ef3bf914.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477475-95aa5c4c-e641-499c-9599-27a9b33d2c41.png)
+
+![](https://user-images.githubusercontent.com/84998005/126477471-f00f0133-f5cb-411e-b26e-fffb36e85ead.png)
+
+
 
 ![Ejercicio 1 tema 10](https://user-images.githubusercontent.com/84397282/126243584-7a5e33a4-08c3-4586-934a-dbb2e5da0b4c.jpg)
 ![Ejercicio 2 tema 10](https://user-images.githubusercontent.com/84397282/126243585-9e625307-55f4-4d65-832a-1b7bbd55f118.jpg)
